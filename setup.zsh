@@ -20,4 +20,6 @@ if [ -f "$HOME/.fzf.zsh" ]; then
 fi
 
 
+autoload -Uz compinit
+compinit
 
