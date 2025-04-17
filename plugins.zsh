@@ -6,7 +6,7 @@
 zinit light zsh-users/zsh-autosuggestions
 
 # Load faster-syntax-highlighting for real-time syntax coloring.
-zinit light zdharma-continuum/fast-syntax-highlighting
+# zinit light zdharma-continuum/fast-syntax-highlighting
 
 # Load zsh-autocomplete to provide advanced, context-based completions.
 zinit light marlonrichert/zsh-autocomplete
