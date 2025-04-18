@@ -14,7 +14,5 @@ zinit light junegunn/fzf
 zinit light parkerdgabel/zsh-dnote
 zinit light parkerdgabel/zsh-config
 
-autoload -Uz compinit && compinit
-zinit light zdharma-continuum/fast-syntax-highlighting
 # Load last
 
